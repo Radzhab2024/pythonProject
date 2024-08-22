@@ -21,3 +21,4 @@ string_info('Complicated')
 is_contains('Urban', ['ban', 'BaNaN', 'urBAN'])
 is_contains('cycle', ['universal', 'pictures'])
 print(calls)
+#hjhj
